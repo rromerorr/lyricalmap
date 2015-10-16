@@ -6,10 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>JollyRanchers</title>
+            <author>Red</author>
+            <author>Green</author>
+            <author>Blue</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Special Collections, UCLA Library</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -33,7 +33,8 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Article text goes here...</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
          </div>
       </body>
       
@@ -56,7 +57,7 @@
             <figure xml:id="fig1">
                <graphic url="../images/nameofimage.jpg"/>
                <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <note type="attribution">Herbert Hoover, Image courtesy of UCLA Special Collections</note>
                <figDesc></figDesc>
             </figure>
             
